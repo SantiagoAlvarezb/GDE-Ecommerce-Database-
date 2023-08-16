@@ -14,7 +14,7 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-Our Ecommerce project is a videogame store which allows customers to purchase not only videogames but also DLC's and Packagaes. It includes all the functionalities of an online store such as a shopping cart and checkout. Furthermore, all the data is stored within a remote data base.
+Our online video game store goes beyond the basics, offering not just games but also DLCs and packages to enhance your gaming experience. You'll have all the familiar online store features like a shopping cart for easy selection and a hassle-free checkout process. Plus, all your valuable data is kept safe in a remote database.
 
 #### Languages & Technologies
 
